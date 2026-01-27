@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/satyam-ku/LeetCode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/satyam-ku/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/satyam-ku/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
