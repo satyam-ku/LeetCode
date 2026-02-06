@@ -9,6 +9,6 @@ public:
                 j++;
             }
         }
-        return j++; 
+        return j; 
     }
 };
