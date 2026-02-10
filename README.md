@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/satyam-ku/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/satyam-ku/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/satyam-ku/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satyam-ku/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/satyam-ku/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
