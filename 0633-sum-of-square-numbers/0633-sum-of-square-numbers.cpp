@@ -1,15 +1,26 @@
 class Solution {
 public:
+    bool isPs(int x){
+        int root = sqrt(x);
+        if(root*root==x) return true;
+        else return false;
+    }
     bool judgeSquareSum(int c) {
-        long long x = 0;
-        long long y = (long long)sqrt(c);
+        int x = 0;
+        int y = c;
+        while(x<=y){
+            if (isPs(x) && isPs(y)) {
 
-        while (x <= y) {
-            long long sum = x*x + y*y;
-
-            if (sum == c) return true;
-            else if (sum < c) x++; 
-            else y--;
+                return true;
+            }
+            else if (!isPs( y)){
+                y = (int)sqrt(y) * (int)sqrt(y);
+                x=c-y;
+            }
+            else{
+                x = ((int)sqrt(x)+1)*((int)sqrt(x)+1);
+                y =c-x;
+            }
         }
         return false;
     }
