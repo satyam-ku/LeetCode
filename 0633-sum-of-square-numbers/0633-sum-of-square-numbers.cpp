@@ -6,21 +6,32 @@ public:
         else return false;
     }
     bool judgeSquareSum(int c) {
-        int x = 0;
-        int y = c;
-        while(x<=y){
-            if (isPs(x) && isPs(y)) {
+        // int x = 0;
+        // int y = c;
+        // while(x<=y){
+        //     if (isPs(x) && isPs(y)) {
 
-                return true;
-            }
-            else if (!isPs( y)){
-                y = (int)sqrt(y) * (int)sqrt(y);
-                x=c-y;
-            }
-            else{
-                x = ((int)sqrt(x)+1)*((int)sqrt(x)+1);
-                y =c-x;
-            }
+        //         return true;
+        //     }
+        //     else if (!isPs( y)){
+        //         y = (int)sqrt(y) * (int)sqrt(y);
+        //         x=c-y;
+        //     }
+        //     else{
+        //         x = ((int)sqrt(x)+1)*((int)sqrt(x)+1);
+        //         y =c-x;
+        //     }
+        // }
+        // return false;
+        long long x = 0;
+        long long y = (long long)sqrt(c);
+
+        while (x <= y) {
+            long long sum = x*x + y*y;
+
+            if (sum == c) return true;
+            else if (sum < c) x++; 
+            else y--;
         }
         return false;
     }
