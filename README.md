@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-ku/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-ku/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/satyam-ku/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/satyam-ku/LeetCode/tree/master/0704-binary-search) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/satyam-ku/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam-ku/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
