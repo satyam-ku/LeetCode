@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/satyam-ku/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/satyam-ku/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/satyam-ku/LeetCode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyam-ku/LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/satyam-ku/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/satyam-ku/LeetCode/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/satyam-ku/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
