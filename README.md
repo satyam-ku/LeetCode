@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satyam-ku/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/satyam-ku/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/satyam-ku/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam-ku/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-ku/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-ku/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-ku/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -154,8 +159,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/satyam-ku/LeetCode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/satyam-ku/LeetCode/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
