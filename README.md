@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/satyam-ku/LeetCode/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/satyam-ku/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyam-ku/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-ku/LeetCode/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/satyam-ku/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satyam-ku/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/satyam-ku/LeetCode/tree/master/0206-reverse-linked-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/satyam-ku/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/satyam-ku/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
