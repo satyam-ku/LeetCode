@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/satyam-ku/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam-ku/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam-ku/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/satyam-ku/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-ku/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-ku/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satyam-ku/LeetCode/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
