@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam-ku/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
+| [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam-ku/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/satyam-ku/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-ku/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
+| [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-ku/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyam-ku/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
+| [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-ku/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyam-ku/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyam-ku/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyam-ku/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/satyam-ku/LeetCode/tree/master/0070-climbing-stairs) |
+| [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
 | ------- |
