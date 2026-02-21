@@ -35,5 +35,7 @@ public:
     sortColors(a);
     sortColors(b);
     merge(a,b,nums);
+    a.clear();
+    b.clear();
     }
 };
