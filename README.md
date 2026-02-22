@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyam-ku/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/satyam-ku/LeetCode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/satyam-ku/LeetCode/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 | [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 ## Backtracking
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/satyam-ku/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/satyam-ku/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/satyam-ku/LeetCode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyam-ku/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Divide and Conquer
