@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/satyam-ku/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam-ku/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
 | [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satyam-ku/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/satyam-ku/LeetCode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 | [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 ## Backtracking
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/satyam-ku/LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/satyam-ku/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyam-ku/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/satyam-ku/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/satyam-ku/LeetCode/tree/master/0070-climbing-stairs) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
