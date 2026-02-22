@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/satyam-ku/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/satyam-ku/LeetCode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyam-ku/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/satyam-ku/LeetCode/tree/master/0868-binary-gap) |
 ## Divide and Conquer
 |  |
 | ------- |
