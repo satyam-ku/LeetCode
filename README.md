@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/satyam-ku/LeetCode/tree/master/0709-to-lower-case) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/satyam-ku/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/satyam-ku/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3174-clear-digits](https://github.com/satyam-ku/LeetCode/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyam-ku/LeetCode/tree/master/0415-add-strings) |
+| [3174-clear-digits](https://github.com/satyam-ku/LeetCode/tree/master/3174-clear-digits) |
 ## Brainteaser
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/satyam-ku/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyam-ku/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/satyam-ku/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [3174-clear-digits](https://github.com/satyam-ku/LeetCode/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
