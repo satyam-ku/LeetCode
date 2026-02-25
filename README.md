@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyam-ku/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/satyam-ku/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/satyam-ku/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyam-ku/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1402-reducing-dishes](https://github.com/satyam-ku/LeetCode/tree/master/1402-reducing-dishes) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-ku/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyam-ku/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satyam-ku/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyam-ku/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1833-maximum-ice-cream-bars](https://github.com/satyam-ku/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/satyam-ku/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## String
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/satyam-ku/LeetCode/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyam-ku/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/satyam-ku/LeetCode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyam-ku/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/satyam-ku/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/satyam-ku/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
