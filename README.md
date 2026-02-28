@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/satyam-ku/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/satyam-ku/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/satyam-ku/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/satyam-ku/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/satyam-ku/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/satyam-ku/LeetCode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/satyam-ku/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/satyam-ku/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/satyam-ku/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/satyam-ku/LeetCode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyam-ku/LeetCode/tree/master/0415-add-strings) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/satyam-ku/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3174-clear-digits](https://github.com/satyam-ku/LeetCode/tree/master/3174-clear-digits) |
 ## Brainteaser
 |  |
