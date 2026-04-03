@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/satyam-ku/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/satyam-ku/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/satyam-ku/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/satyam-ku/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/satyam-ku/LeetCode/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyam-ku/LeetCode/tree/master/0415-add-strings) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/satyam-ku/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/satyam-ku/LeetCode/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/satyam-ku/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/satyam-ku/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 ## Rolling Hash
 |  |
