@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
+        
+        set<pair<int,int>> obs;
+        for(auto &o : obstacles) {
+            obs.insert({o[0], o[1]});
+        }
+        
+        vector<pair<int,int>> dir = {
+            {0,1}, {1,0}, {0,-1}, {-1,0}
+        };
+        
+        int d = 0; 
+        int x = 0, y = 0;
+        int maxDist=0;
+        
+        for(int cmd : commands) {
+            
+            if(cmd == -1) {
+                d = (d + 1) % 4;  
+            }
+            else if(cmd == -2) {
+                d = (d + 3) % 4; 
+            }
+            else {
+                int dx = dir[d].first;
+                int dy = dir[d].second;
+                
+                for(int i = 0; i < cmd; i++) {
+                    int nx = x + dx;
+                    int ny = y + dy;
+                    
+                    if(obs.count({nx, ny})) break;
+                    
+                    x = nx;
+                    y = ny;
+                    
+                    maxDist = max(maxDist, x*x + y*y);
+                }
+            }
+        }
+        
+        return maxDist;
+    }
+};
