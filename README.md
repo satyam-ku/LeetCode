@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyam-ku/LeetCode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/satyam-ku/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyam-ku/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/satyam-ku/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/satyam-ku/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyam-ku/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/satyam-ku/LeetCode/tree/master/1051-height-checker) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/satyam-ku/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/satyam-ku/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/satyam-ku/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0874-walking-robot-simulation](https://github.com/satyam-ku/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/satyam-ku/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Two Pointers
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/satyam-ku/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/satyam-ku/LeetCode/tree/master/0415-add-strings) |
+| [0874-walking-robot-simulation](https://github.com/satyam-ku/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/satyam-ku/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3174-clear-digits](https://github.com/satyam-ku/LeetCode/tree/master/3174-clear-digits) |
 ## Brainteaser
